@@ -4,4 +4,4 @@ It is an example application used in The Pragmatic Studio's Ruby Programming cou
 
 &nbsp;&nbsp;&nbsp;&nbsp; www.pragmaticstudio.com
 
-Copyright (c) 2013, Emily Littleworth. See [LICENSE](www.github.com/emlittleworth/studio_game/blob/master/LICENSE).
+Copyright (c) 2013, Emily Littleworth. See [LICENSE](LICENSE).
